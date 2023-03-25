@@ -1,4 +1,3 @@
-from collections import Counter
 from textwrap import wrap
 s="AUGUUUUCUUAAAUG"
 l= wrap(s,3)
